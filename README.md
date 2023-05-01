@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning __AWS Cloud Architect / DevOps Engineering__
-- 👨‍💻 All of my projects are available at __https://github.com/vedat-kaya__
+- 👨‍💻 All of my projects are available at __https://github.com/ahmet-vedat__
 - 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Prometheus, Grafana__
 - 📫 How to reach me: __ahmetvedatkaya@gmail.com__
 - 📄 Know about my experiences __www.linkedin.com/in/ahmetvedatkaya__
